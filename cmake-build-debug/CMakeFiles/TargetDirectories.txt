@@ -1,0 +1,3 @@
+C:/Users/hp/CLionProjects/Rubixcube/cmake-build-debug/CMakeFiles/Rubixcube.dir
+C:/Users/hp/CLionProjects/Rubixcube/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/CLionProjects/Rubixcube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
